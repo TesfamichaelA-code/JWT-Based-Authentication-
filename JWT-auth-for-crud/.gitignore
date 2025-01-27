@@ -1,2 +1,5 @@
-JWT-auth-for-crud/node_modules/
-JWT-auth-for-crud/.env
+# Ignore node_modules folder
+node_modules/
+
+# Ignore environment variables file
+.env
